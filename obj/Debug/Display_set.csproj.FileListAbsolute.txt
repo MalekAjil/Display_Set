@@ -1,0 +1,11 @@
+C:\Users\MK-91\Documents\VisualStudioProjects\Display_set\bin\Debug\Display_set.exe.config
+C:\Users\MK-91\Documents\VisualStudioProjects\Display_set\bin\Debug\Display_set.exe
+C:\Users\MK-91\Documents\VisualStudioProjects\Display_set\bin\Debug\Display_set.pdb
+C:\Users\MK-91\Documents\VisualStudioProjects\Display_set\obj\Debug\Display_set.csproj.AssemblyReference.cache
+C:\Users\MK-91\Documents\VisualStudioProjects\Display_set\obj\Debug\Display_set.csproj.SuggestedBindingRedirects.cache
+C:\Users\MK-91\Documents\VisualStudioProjects\Display_set\obj\Debug\Display_set.Form1.resources
+C:\Users\MK-91\Documents\VisualStudioProjects\Display_set\obj\Debug\Display_set.Properties.Resources.resources
+C:\Users\MK-91\Documents\VisualStudioProjects\Display_set\obj\Debug\Display_set.csproj.GenerateResource.cache
+C:\Users\MK-91\Documents\VisualStudioProjects\Display_set\obj\Debug\Display_set.csproj.CoreCompileInputs.cache
+C:\Users\MK-91\Documents\VisualStudioProjects\Display_set\obj\Debug\Display_set.exe
+C:\Users\MK-91\Documents\VisualStudioProjects\Display_set\obj\Debug\Display_set.pdb
